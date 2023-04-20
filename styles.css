@@ -4,6 +4,11 @@
   margin: 0;
 }
 
-.colorBs {
-  color: #0d6efd;
+body.dark-mode {
+  color: #fff;
+  background-color: #222;
+}
+
+.cont{
+  background-color: cornflowerblue;
 }
