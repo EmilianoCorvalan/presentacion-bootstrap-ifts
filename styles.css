@@ -11,4 +11,10 @@ body.dark-mode {
 
 .cont{
   background-color: cornflowerblue;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+
+.cont2{
+  background-color: #222;
 }
