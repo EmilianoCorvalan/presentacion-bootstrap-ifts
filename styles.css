@@ -18,3 +18,24 @@ body.dark-mode {
 .cont2{
   background-color: #222;
 }
+
+
+#id-asd{
+  color: green ;
+}
+
+.asd{
+  padding: 5px;
+  margin: 10px;
+  background-color: white;
+  color: orange;
+  border-radius: 20%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 800;
+}
+
+.asd:hover{
+  background-color: rebeccapurple;
+  padding: 30px;
+}
+
